@@ -1,4 +1,4 @@
-{       "Author": "kritik",
+{       "author": "kritik",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
